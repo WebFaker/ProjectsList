@@ -63,3 +63,7 @@ All my websites / projects will be listed here.
 *https://webfaker.github.io/thegemuprod/public/*
 
 ![image](https://user-images.githubusercontent.com/33089994/164282919-7480283d-6be8-47d7-893d-e6cbcb87133d.png)
+
+-----
+
+*I have more projects, but they are localhosted because of some conditions that are not met to post it here.*

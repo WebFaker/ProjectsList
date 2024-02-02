@@ -3,6 +3,13 @@ All my websites / projects will be listed here.
 
 -----
 
+#### [Vue.js & Firebase] Cop'n'Stock - Sneakers and Hype management
+*https://copnstock.com*
+
+![image](https://github.com/WebFaker/ProjectsList/assets/33089994/d59776cd-7088-4df0-8246-e4b2b17736d4)
+
+-----
+
 #### [Vue.js] Portfolio - Animation / VFX creator
 *https://sandykoummarasy.fr*
 
@@ -17,7 +24,7 @@ All my websites / projects will be listed here.
 
 -----
 
-#### [Vue.js & Firebase] watchtimer. - Anime watchlist
+#### [Vue.js & Firebase] watchtimer. - Anime watchlist [DOWN]
 *https://watch-timer.web.app*
 
 ![image](https://user-images.githubusercontent.com/33089994/164282240-740d73ff-3239-4aaf-8ccd-1411aab0285d.png)
@@ -38,7 +45,7 @@ All my websites / projects will be listed here.
 
 -----
 
-#### [HTML5 & CSS3 & JavaScript] WolfLife - A GTA V FiveM server
+#### [HTML5 & CSS3 & JavaScript] WolfLife - A GTA V FiveM server [DOWN]
 *https://wolflife.hostman.site/*
 
 ![image](https://user-images.githubusercontent.com/33089994/164282580-f6c1a973-3b92-46c8-97ed-5b9b772a959a.png)
